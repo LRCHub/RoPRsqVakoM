@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "手紙 〜拝啓　十五の君へ〜-strings version-",
+  "base_artist": "Angela Aki",
+  "createdAt": "2026-03-03T14:13:57.957359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "手紙 ～拝啓 十五の君へ～ -strings version-",
+      "artist": "Angela Aki",
+      "has_synced": false,
+      "path": "select/01_手紙_~拝啓_十五の君へ~_-strings_version-_Angela_Aki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "手紙 〜拝啓　十五の君へ〜-strings version- - Tegami -Haikei Jyuugo No Kimi E (Strings Version)",
+      "artist": "Angela Aki",
+      "has_synced": false,
+      "path": "select/02_手紙_〜拝啓_十五の君へ〜-strings_version-_-_Tegami_-Haikei_Jyuugo_No_Kimi_E_(Strings_Versio_Angela_Aki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "手紙 ～拝啓 十五の君へ～",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_01_手紙_~拝啓_十五の君へ~_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "手紙 ～拝啓 十五の君へ～",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_02_手紙_~拝啓_十五の君へ~_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "手紙 ～拝啓 十五の君へ～",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_03_手紙_~拝啓_十五の君へ~_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "手紙 ~拝啓 十五の君へ~",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_04_手紙_~拝啓_十五の君へ~_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "手紙 ~拝啓 十五の君へ~",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_05_手紙_~拝啓_十五の君へ~_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "手紙 ～拝啓 十五の君へ～",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_06_手紙_~拝啓_十五の君へ~_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "手紙 ～拝啓 十五の君へ～",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_07_手紙_~拝啓_十五の君へ~_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "手紙 ～拝啓 十五の君へ～",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_08_手紙_~拝啓_十五の君へ~_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "手紙 ～拝啓 十五の君へ～",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_09_手紙_~拝啓_十五の君へ~_アンジェラ・アキ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "手紙〜拝啓十五の君へ〜",
+      "artist": "アンジェラ・アキ",
+      "has_synced": false,
+      "path": "select/pl_10_手紙〜拝啓十五の君へ〜_アンジェラ・アキ.txt"
+    }
+  ]
+}
